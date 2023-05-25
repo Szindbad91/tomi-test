@@ -1,0 +1,16 @@
+{
+    "name": "mihalyfijanos/tomi-test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Janos Mihalyfi",
+            "email": "info@mihalyfijanos.hu"
+        }
+    ],
+    "require": {}
+}
